@@ -1,4 +1,9 @@
 #!/bin/bash
+# Install on ubuntu 18.0.4
+# sudo add-apt-repository ppa:openjdk-r/ppa
+# sudo apt-get update
+# sudo apt-get install openjdk-8-jre
+
 echo "Installing java repo"
 echo Enter | sudo add-apt-repository ppa:webupd8team/java
 sudo apt update
