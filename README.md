@@ -13,7 +13,7 @@ Deploy to ec2 instance within minutes
 - Clone the repo & change the directory
 
   ```
-  https://github.com/akshilshah/autodeploy-jenkins.git 
+  git clone https://github.com/akshilshah/autodeploy-jenkins.git 
   cd autodeploy-jenkins
   ```
 
